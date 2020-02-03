@@ -1,0 +1,34 @@
+﻿/* Dead by Daylight API - by VooDoo */
+/* API Link: https://bridge.buddyweb.fr/docs/dbd */
+/* Last update: Mon, 03 Feb 2020 06:40:43 UTC+0100 (CET) */
+
+/* Follow me on Twitter @DearVooDoo */
+
+brown {
+    color: #ab713c;
+    font-weight: bold;
+}
+yellow {
+    color: #e8c252;
+    font-weight: bold;
+}
+green {
+    color: #199b1e;
+    font-weight: bold;
+}
+purple {
+    color: #ac3ee3;
+    font-weight: bold;
+}
+pink {
+    color: #ff0955;
+    font-weight: bold;
+}
+orange {
+    color: #ff8800;
+    font-weight: bold;
+}
+red {
+    color: #d41c1c;
+    font-weight: bold;
+}

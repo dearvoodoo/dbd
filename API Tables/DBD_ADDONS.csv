@@ -1,49 +1,49 @@
 Bound To,Name,Name Tag,Desc,Rarity,Icon Path
-https://bridge.buddyweb.fr/api/dbd/killers/1,Trapper Sack,trappersack,"A crude leather sack suitable for foraging.
+/killers/1,Trapper Sack,trappersack,"A crude leather sack suitable for foraging.
 Start with 1 extra Bear Trap.
-Increases Bear Trap Carrying capacity by 1.",Common,trappersack.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Trapper Gloves,trappergloves,"Protective padded leather gloves.
-Slightly increases Bear Trap Setting speed.",Common,trappergloves.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Strong Coil Spring,strongcoilspring,"A large and heavy coil spring which adds a good amount of strength to the Bear Trap's hold.
-Slightly decreases Bear Trap Disarm speed.",Common,strongcoilspring.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Padded Jaws,paddedjaws,"These padded jaws are meant to restrain, not to wound.
+Increases Bear Trap Carrying capacity by 1.",Common,/dbd/blob/master/Addons/trappersack.png
+/killers/1,Trapper Gloves,trappergloves,"Protective padded leather gloves.
+Slightly increases Bear Trap Setting speed.",Common,/dbd/blob/master/Addons/trappergloves.png
+/killers/1,Strong Coil Spring,strongcoilspring,"A large and heavy coil spring which adds a good amount of strength to the Bear Trap's hold.
+Slightly decreases Bear Trap Disarm speed.",Common,/dbd/blob/master/Addons/strongcoilspring.png
+/killers/1,Padded Jaws,paddedjaws,"These padded jaws are meant to restrain, not to wound.
 Bear Traps do not inflict damage to trapped victims.
-Grants 100 % Bonus Bloodpoints for trapping Survivors.",Common,paddedjaws.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Trapper Bag,trapperbag,"A cured leather waist bag. Large and sturdy to transport hunting equipment.
+Grants 100 % Bonus Bloodpoints for trapping Survivors.",Common,/dbd/blob/master/Addons/paddedjaws.png
+/killers/1,Trapper Bag,trapperbag,"A cured leather waist bag. Large and sturdy to transport hunting equipment.
 Start with 1 extra Bear Trap.
-Increases Bear Trap Carrying capacity by 2.",Uncommon,trapperbag.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Trap Setters,trapsetters,"Simple tools designed to quickly and safely set Bear Traps.
-Moderately increases Bear Trap Setting speed.",Uncommon,trapsetters.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Serrated Jaws,serratedjaws,"These replacement Bear Trap jaws have saw-like blades which cause awful open wounds when they snap.
-Survivors injured by a Bear Trap suffer from the Haemorrhage Haemorrhage}} Status Effect until healed.",Uncommon,serratedjaws.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Logwood Dye,logwooddye,"Wood ash. When boiled, can be used to dye Bear Traps and make them less noticeable.
-Moderately darkens the Bear Trap.",Uncommon,logwooddye.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,4-Coil Spring Kit,coilskit4,"A replacement kit for Bear Traps which changes the usual dual spring system to 4 coil springs, adding a great amount of strength to a Bear Trap's hold.
-Moderately decreases Bear Trap Disarm speed.",Uncommon,coilskit4.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Wax Brick,waxbrick,"A block of wax used to lower friction and facilitate movement in mechanical parts.
-Moderately lowers Bear Trap Escape chance.",Rare,waxbrick.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Tar Bottle,tarbottle,"A black, matte and sticky substance similar to tar. When applied to Bear Traps, makes them far less noticeable.
-Considerably darkens the Bear Trap.",Rare,tarbottle.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Setting Tools,settingtools,"Specialised tools designed to quickly and effortlessly set Bear Traps.
+Increases Bear Trap Carrying capacity by 2.",Uncommon,/dbd/blob/master/Addons/trapperbag.png
+/killers/1,Trap Setters,trapsetters,"Simple tools designed to quickly and safely set Bear Traps.
+Moderately increases Bear Trap Setting speed.",Uncommon,/dbd/blob/master/Addons/trapsetters.png
+/killers/1,Serrated Jaws,serratedjaws,"These replacement Bear Trap jaws have saw-like blades which cause awful open wounds when they snap.
+Survivors injured by a Bear Trap suffer from the Haemorrhage Haemorrhage}} Status Effect until healed.",Uncommon,/dbd/blob/master/Addons/serratedjaws.png
+/killers/1,Logwood Dye,logwooddye,"Wood ash. When boiled, can be used to dye Bear Traps and make them less noticeable.
+Moderately darkens the Bear Trap.",Uncommon,/dbd/blob/master/Addons/logwooddye.png
+/killers/1,4-Coil Spring Kit,coilskit4,"A replacement kit for Bear Traps which changes the usual dual spring system to 4 coil springs, adding a great amount of strength to a Bear Trap's hold.
+Moderately decreases Bear Trap Disarm speed.",Uncommon,/dbd/blob/master/Addons/coilskit4.png
+/killers/1,Wax Brick,waxbrick,"A block of wax used to lower friction and facilitate movement in mechanical parts.
+Moderately lowers Bear Trap Escape chance.",Rare,/dbd/blob/master/Addons/waxbrick.png
+/killers/1,Tar Bottle,tarbottle,"A black, matte and sticky substance similar to tar. When applied to Bear Traps, makes them far less noticeable.
+Considerably darkens the Bear Trap.",Rare,/dbd/blob/master/Addons/tarbottle.png
+/killers/1,Setting Tools,settingtools,"Specialised tools designed to quickly and effortlessly set Bear Traps.
 Considerably increases Bear Trap Setting speed.
-Moderately decreases Bear Trap Rescue and Escape speed.",Rare,settingtools.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Secondary Coil,secondarycoil,"A secondary coil which keeps a Bear Trap functional in times when the primary coil becomes unusable.
-Considerably decreases Bear Trap Disarm speed.",Rare,secondarycoil.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Rusted Jaws,rustedjaws,"These Bear Trap jaws are covered with crusty and volatile rust spots that make injuries particularly difficult to heal.
-Survivors injured by a Bear Trap suffer from the Mangled Mangled}} Status Effect for 120 seconds.",Rare,rustedjaws.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Stitched Bag,stitchedbag,"Skin pieces of all sorts crudely stitched together making for a very large bag.
+Moderately decreases Bear Trap Rescue and Escape speed.",Rare,/dbd/blob/master/Addons/settingtools.png
+/killers/1,Secondary Coil,secondarycoil,"A secondary coil which keeps a Bear Trap functional in times when the primary coil becomes unusable.
+Considerably decreases Bear Trap Disarm speed.",Rare,/dbd/blob/master/Addons/secondarycoil.png
+/killers/1,Rusted Jaws,rustedjaws,"These Bear Trap jaws are covered with crusty and volatile rust spots that make injuries particularly difficult to heal.
+Survivors injured by a Bear Trap suffer from the Mangled Mangled}} Status Effect for 120 seconds.",Rare,/dbd/blob/master/Addons/rustedjaws.png
+/killers/1,Stitched Bag,stitchedbag,"Skin pieces of all sorts crudely stitched together making for a very large bag.
 Start with 2 extra Bear Traps.
-Increases Bear Trap Carrying capacity by 2.",Very Rare,stitchedbag.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Oily Coil,oilycoil,"A clear oil that makes handling the Trap's spring more hazardous.
-Tremendously decreases Bear Trap Disarm speed.",Very Rare,oilycoil.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Honing Stone,honingstone,"When used with the Bear Trap, the Honing Stone sharpens its blades. The razor-sharp blades inflict deep wounds aimed at bleeding the victim as fast as possible.
-Inflicts the Dying State Dying State}} upon the trapped victim if they free themselves.",Very Rare,honingstone.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Fastening Tools,fasteningtools,"A specialised set of tools used to fasten Bear Traps to ensure their effectiveness.
+Increases Bear Trap Carrying capacity by 2.",Very Rare,/dbd/blob/master/Addons/stitchedbag.png
+/killers/1,Oily Coil,oilycoil,"A clear oil that makes handling the Trap's spring more hazardous.
+Tremendously decreases Bear Trap Disarm speed.",Very Rare,/dbd/blob/master/Addons/oilycoil.png
+/killers/1,Honing Stone,honingstone,"When used with the Bear Trap, the Honing Stone sharpens its blades. The razor-sharp blades inflict deep wounds aimed at bleeding the victim as fast as possible.
+Inflicts the Dying State Dying State}} upon the trapped victim if they free themselves.",Very Rare,/dbd/blob/master/Addons/honingstone.png
+/killers/1,Fastening Tools,fasteningtools,"A specialised set of tools used to fasten Bear Traps to ensure their effectiveness.
 Tremendously increases Bear Trap Setting speed.
 Moderately decreases Bear Trap Rescue and Escape speed.
-Moderately lowers Bear Trap Escape chance.",Very Rare,fasteningtools.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Iridescent Stone,iridescentstone,"Traps sharpened with this sickly gleaming stone seem to gain a life of their own.
-Every 30 seconds, one closed Bear Trap chosen at random becomes set.",Ultra Rare,iridescentstone.png
-https://bridge.buddyweb.fr/api/dbd/killers/1,Bloody Coil,bloodycoil,"Part sticky, part slippery, this grim liquid makes handling the Trap's spring more dangerous.
+Moderately lowers Bear Trap Escape chance.",Very Rare,/dbd/blob/master/Addons/fasteningtools.png
+/killers/1,Iridescent Stone,iridescentstone,"Traps sharpened with this sickly gleaming stone seem to gain a life of their own.
+Every 30 seconds, one closed Bear Trap chosen at random becomes set.",Ultra Rare,/dbd/blob/master/Addons/iridescentstone.png
+/killers/1,Bloody Coil,bloodycoil,"Part sticky, part slippery, this grim liquid makes handling the Trap's spring more dangerous.
 When a Trap is sabotaged or disarmed by a Healthy Survivor, the bloody coils exact their price and that Survivor becomes Injured.
-Slightly decreases Bear Trap Disarm speed.",Ultra Rare,bloodycoil.png
+Slightly decreases Bear Trap Disarm speed.",Ultra Rare,/dbd/blob/master/Addons/bloodycoil.png

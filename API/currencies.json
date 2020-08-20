@@ -1,0 +1,24 @@
+[
+	{
+		"currencies": [
+			"auriccells",
+			"bloodpoints",
+			"burntcoins",
+			"goldcoins",
+			"iridescentshards",
+			"putridserum",
+			"riftfragments",
+			"summer18_killer",
+			"summer18_survivor"
+		]
+	},
+	{
+		"packs": [
+			"auriccellpack_01",
+			"auriccellpack_02",
+			"auriccellpack_03",
+			"auriccellpack_04",
+			"auriccellpack_05"
+		]
+	}
+]
